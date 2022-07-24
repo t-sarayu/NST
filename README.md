@@ -2,6 +2,12 @@
 
 Streamlit web app to try Style Transfer model from [Tensorflow Hub](https://www.tensorflow.org/hub/tutorials/tf2_arbitrary_image_stylization)
 
+https://t-sarayu-nst-style-transfer-dkcrp6.streamlitapp.com/
+
+1. Upload content image- image you need to edit
+2. Download images in TOP style folder (https://github.com/t-sarayu/NST/tree/main/TOP_styles)
+eg:mosaic style -  https://github.com/t-sarayu/NST/blob/main/TOP_styles/mosaic.jpg
+and Generate
 
 ## Screenshots
 
